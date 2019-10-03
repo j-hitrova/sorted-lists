@@ -6,7 +6,6 @@
 //
 
 import Foundation
-
 import UIKit
 
 var str = "Hello, playground"
